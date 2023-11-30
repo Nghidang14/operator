@@ -1,0 +1,14 @@
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\bin\Debug\net8.0\Operator.exe
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\bin\Debug\net8.0\Operator.deps.json
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\bin\Debug\net8.0\Operator.runtimeconfig.json
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\bin\Debug\net8.0\Operator.dll
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\bin\Debug\net8.0\Operator.pdb
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\Operator.AssemblyInfoInputs.cache
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\Operator.AssemblyInfo.cs
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\Operator.csproj.CoreCompileInputs.cache
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\Operator.dll
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\refint\Operator.dll
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\Operator.pdb
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\Operator.genruntimeconfig.cache
+D:\Workspace\C_Sharp\c_shard_sololearn\Operator\Operator\obj\Debug\net8.0\ref\Operator.dll
